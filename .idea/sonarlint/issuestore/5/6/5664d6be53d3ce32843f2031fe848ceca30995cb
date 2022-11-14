@@ -1,0 +1,5 @@
+
+W
+java:S1612-"AReplace this lambda with method reference 'Operation::getAmount'.(’æÙ‡
+m
+java:S6204@"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(É¿¸óøÿÿÿÿ
